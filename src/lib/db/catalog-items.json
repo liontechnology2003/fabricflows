@@ -1,0 +1,1577 @@
+[
+  {
+    "seccion": "biblar de tapeta bols delantera x2",
+    "operaciones": [
+      {
+        "descripcion": "coser biblar de tapeta bols delan x2",
+        "maquina": "mp",
+        "tiempo": 1.4
+      },
+      {
+        "descripcion": "voltear y pespuntear tapeta bols delantera x2",
+        "maquina": "mp",
+        "tiempo": 1.6
+      },
+      {
+        "descripcion": "precocer biblar con tapeta bols delan x2",
+        "maquina": "mp",
+        "tiempo": 1.8
+      }
+    ]
+  },
+  {
+    "seccion": "BOLSILLO ESPALDA X2",
+    "operaciones": [
+      {
+        "descripcion": "preformar bolsillo espalda",
+        "maquina": "plancha",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "remallar forro bolsillo trasero",
+        "maquina": "ser",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "remallar forro bolsillo trasero x2",
+        "maquina": "ser",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser vista y forro bolsillo vivo espalda",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "pegar vista y forro bolsillo vivo espalda",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "coser vivo con cremallera a forro bolsillo",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "pegar vista bolsillo espalda",
+        "maquina": "mp",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "coser cargaderas a bolsillo espalda",
+        "maquina": "mp",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "coser ojalillo bolsillo espalda",
+        "maquina": "mp",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "apuntar forro bolsillo",
+        "maquina": "mp",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "BOLSILLO ojalillos X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser dobladillo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser velcro bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "hacer ojalillo bolsillo x1",
+        "maquina": "OJALILLOS",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "pespuntear bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar bolsillo x1",
+        "maquina": "PLANCHA",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "BOLSILLO PECHO",
+    "operaciones": [
+      {
+        "descripcion": "marcar delantero posicion de bolsillo pecho x2",
+        "maquina": "manual",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar bolsillo vivo y vista bolsillo pecho x2",
+        "maquina": "plancha",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "coser bolsillo vivo y vista bolsillo pecho x2",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "preformar tira bolsillo izquierdo x1",
+        "maquina": "plancha",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "preparar bolsillo de pecho derecho",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "preparar bolsillo de pecho derecho x1",
+        "maquina": "mp",
+        "tiempo": 0.8
+      },
+      {
+        "descripcion": "preformar tira de pecho L/pecho",
+        "maquina": "mp",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "preparar tira de pecho L/pecho",
+        "maquina": "mp",
+        "tiempo": 1
+      },
+      {
+        "descripcion": "pegar tira bolsillo izquierdo x1",
+        "maquina": "mp",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "volver y pespuntear tira inter bols pecho x1",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "volver y pespuntear tiras inter bols pecho",
+        "maquina": "mp",
+        "tiempo": 1.4
+      },
+      {
+        "descripcion": "coser fuelle bols pecho los",
+        "maquina": "mp",
+        "tiempo": 1
+      },
+      {
+        "descripcion": "precintar tira de bolsillo pecho x1",
+        "maquina": "mp",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser velcro en bolsillo pecho",
+        "maquina": "mp",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "precintar y ribetear tira de bolsillo pecho x1",
+        "maquina": "mp",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "coser velcro en tira bolsillo",
+        "maquina": "mp",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "coser velcro en tira bolsillo de bolsillo pecho Izq",
+        "maquina": "mp",
+        "tiempo": 1
+      },
+      {
+        "descripcion": "coser velcro en bolsillo de bolsillo pecho Der",
+        "maquina": "mp",
+        "tiempo": 1
+      },
+      {
+        "descripcion": "coser velcro de bolsillo pecho derecho x1",
+        "maquina": "m,v",
+        "tiempo": 0.5
+      }
+    ]
+  },
+  {
+    "seccion": "bolsillo pecho x1",
+    "operaciones": [
+      {
+        "descripcion": "precerar bolsillo pecho x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "rematar bolsillo pecho",
+        "maquina": "ser",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser dobladillo bolsillo pecho x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser vivo bolsillo pecho x1",
+        "maquina": "MP",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "coser velcro bolsillo pecho x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "apuntar vivo bolsillo pecho x1",
+        "maquina": "mp",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar vivo bolsillo pecho x1",
+        "maquina": "mp",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pespuntear bolsillo pecho",
+        "maquina": "2AGUJAS",
+        "tiempo": 0.6
+      }
+    ]
+  },
+  {
+    "seccion": "BOLSILLO VIVO PECHO",
+    "operaciones": [
+      {
+        "descripcion": "coser velcro de bolsillo vivo pecho x2",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "precocer vivo bolsillo y volver x2",
+        "maquina": "mp",
+        "tiempo": 1.4
+      },
+      {
+        "descripcion": "coser velcro en vivo bolsillo x2",
+        "maquina": "mp",
+        "tiempo": 1.4
+      },
+      {
+        "descripcion": "coser velcro de bolsillo vivo x4",
+        "maquina": "m,v",
+        "tiempo": 2.5
+      }
+    ]
+  },
+  {
+    "seccion": "BOLSILLO vivo X1",
+    "operaciones": [
+      {
+        "descripcion": "coser vista con forro x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser forro con bolsillo",
+        "maquina": "MP",
+        "tiempo": 0.8
+      },
+      {
+        "descripcion": "coser vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "abrir ojal bolsillo",
+        "maquina": "OJALERA",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "remachar bolsillo ojalillos x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "BOLSILLO vivo X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "coser vista con forro x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser forro con bolsillo",
+        "maquina": "MP",
+        "tiempo": 0.8
+      },
+      {
+        "descripcion": "coser vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "apuntar bolsillo delantero x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "BOLSILLO X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser dobladillo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser velcro bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar bolsillo x1",
+        "maquina": "PLANCHA",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "prespuntear bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "BOLSILLO X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.23
+      },
+      {
+        "descripcion": "coser velcro bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.34
+      },
+      {
+        "descripcion": "instalar bolsillo x1",
+        "maquina": "PLANCHA",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pespuntear bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.45
+      },
+      {
+        "descripcion": "pegar bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.1
+      }
+    ]
+  },
+  {
+    "seccion": "BRAGETA",
+    "operaciones": [
+      {
+        "descripcion": "coser cierre brageta x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser vivo brageta x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "prespuntear brageta x1",
+        "maquina": "2AGUJAS",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar tira",
+        "maquina": "MP",
+        "tiempo": 0.3
+      }
+    ]
+  },
+  {
+    "seccion": "BRAGETA (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "coser vivo brageta x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "prespuntear brageta x1",
+        "maquina": "2H",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar tira",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "desglosar cremallera brageta",
+        "maquina": "MP",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "CAPUCHA",
+    "operaciones": [
+      {
+        "descripcion": "coser pinza capucha",
+        "maquina": "MP",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "preformar tira capucha",
+        "maquina": "PLANCHA",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser cordon en capucha",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "coser velcro capucha",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "unir piezas capucha",
+        "maquina": "MP",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "coser forro con capucha",
+        "maquina": "MP",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "voltear capucha",
+        "maquina": "MANUAL",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "pegar tira capucha y empaquetar",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "pegar transfer en capucha",
+        "maquina": "PLANCHA",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser broches a capucha",
+        "maquina": "OJALES",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "pegar broches a capucha",
+        "maquina": "OJALES",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "unir forro con capucha",
+        "maquina": "MP",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "embolsar forro con capucha",
+        "maquina": "MP",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "voltear capucha",
+        "maquina": "MANUAL",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "prespuntear capucha",
+        "maquina": "2AGUJAS",
+        "tiempo": 1.2
+      }
+    ]
+  },
+  {
+    "seccion": "CAPUCHA (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "coser pinza capucha",
+        "maquina": "MP",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "preformar tira capucha",
+        "maquina": "PLANCHA",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser cordon en capucha",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "coser velcro capucha",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "unir piezas capucha",
+        "maquina": "MP",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "pegar logo en capucha",
+        "maquina": "MANUAL",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "unir forro con capucha",
+        "maquina": "MP",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "pegar transfer en capucha",
+        "maquina": "PLANCHA",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser broches a capucha",
+        "maquina": "OJALES",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "pegar broches a capucha",
+        "maquina": "OJALES",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "hacer ojal en capucha",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "voltear capucha",
+        "maquina": "MANUAL",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "prespuntear capucha",
+        "maquina": "2AGUJAS",
+        "tiempo": 1.2
+      }
+    ]
+  },
+  {
+    "seccion": "CINTURA",
+    "operaciones": [
+      {
+        "descripcion": "precerar cintura",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser cintura",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pespuntear cintura",
+        "maquina": "MP",
+        "tiempo": 0.7
+      }
+    ]
+  },
+  {
+    "seccion": "CINTURA (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar cintura",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser cintura",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pespuntear cintura",
+        "maquina": "MP",
+        "tiempo": 0.5
+      }
+    ]
+  },
+  {
+    "seccion": "CORTAVIENTOS X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar cortavientos x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar cortavientos x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "CORTAVIENTOS X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar cortavientos x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "atrapar cortavientos x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      }
+    ]
+  },
+  {
+    "seccion": "CUELLO con costura decorativa",
+    "operaciones": [
+      {
+        "descripcion": "precerar cuello",
+        "maquina": "MANUAL",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser cuello",
+        "maquina": "MP",
+        "tiempo": 0.8
+      },
+      {
+        "descripcion": "habilitar cuello",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "voltear cuello",
+        "maquina": "MANUAL",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "prespuntear cuello",
+        "maquina": "MP",
+        "tiempo": 0.7
+      },
+      {
+        "descripcion": "hacer ojalillos",
+        "maquina": "OJALILLOS",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "prespuntear cuello",
+        "maquina": "MP",
+        "tiempo": 1
+      }
+    ]
+  },
+  {
+    "seccion": "CUELLO con costura decorativa (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "marcar cuello",
+        "maquina": "MANUAL",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "precerar cuello",
+        "maquina": "MP",
+        "tiempo": 0.8
+      },
+      {
+        "descripcion": "coser cuello",
+        "maquina": "MP",
+        "tiempo": 0.8
+      },
+      {
+        "descripcion": "habilitar cuello",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "voltear cuello",
+        "maquina": "MANUAL",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "prespuntear cuello",
+        "maquina": "MP",
+        "tiempo": 0.7
+      },
+      {
+        "descripcion": "hacer ojalillos",
+        "maquina": "OJALILLOS",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "prespuntear cuello",
+        "maquina": "MP",
+        "tiempo": 1.2
+      }
+    ]
+  },
+  {
+    "seccion": "FUNDA ELASTICO X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar puños x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "voltear puños x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser puños x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "pegar puños x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "GOMA PUÑOS X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar goma puños x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser goma puños x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "voltear goma puños x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "GOMA PUÑOS X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar goma puños x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser goma puños x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "voltear goma puños x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "PASADORES X1",
+    "operaciones": [
+      {
+        "descripcion": "atraque presillas x1",
+        "maquina": "VIVO",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "PASADORES X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "atraque presillas x1",
+        "maquina": "VIVO",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "PUÑOS ELASTICO X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar puños x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "voltear puños x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser puños x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "pegar puños x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "PUÑOS X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar puños x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "voltear puños x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "prespuntear puños x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar puños x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "PUÑOS X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar puños x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "voltear puños x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "coser puños x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      }
+    ]
+  },
+  {
+    "seccion": "RODELLA X1",
+    "operaciones": [
+      {
+        "descripcion": "coser parche rodella x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "precerar rodella x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser velcro rodella x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar rodella x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "hacer ojalillos x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "RODELLA X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "coser parche rodella x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "precerar rodella x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser velcro rodella x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar rodella x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "hacer ojalillos x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "tapeta bolsillo GRANDE x1",
+    "operaciones": [
+      {
+        "descripcion": "precerar tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser velcro tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pespuntear tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar tapeta bolsillo x1",
+        "maquina": "PLANCHA",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "apuntar tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "tapeta bolsillo ojalillos combinacion x1",
+    "operaciones": [
+      {
+        "descripcion": "precerar tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.27
+      },
+      {
+        "descripcion": "coser velcro tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.18
+      },
+      {
+        "descripcion": "pespuntear tapeta bolsillo x1",
+        "maquina": "2AGUJAS",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "hacer ojalillos tapeta bolsillo x1",
+        "maquina": "OJALILLOS",
+        "tiempo": 0.15
+      },
+      {
+        "descripcion": "pegar tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      }
+    ]
+  },
+  {
+    "seccion": "tapeta bolsillo ojalillos x1",
+    "operaciones": [
+      {
+        "descripcion": "coser velcro tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "precerar tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar tapeta bolsillo x1",
+        "maquina": "PLANCHA",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "hacer ojalillos tapeta bolsillo x1",
+        "maquina": "OJALILLOS",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "pespuntear tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      }
+    ]
+  },
+  {
+    "seccion": "TAPETA CENTRAL",
+    "operaciones": [
+      {
+        "descripcion": "remallar tapeta delantera",
+        "maquina": "3H",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "remallar vista delantera",
+        "maquina": "3H",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser biblar en tapeta delantera x2",
+        "maquina": "mp",
+        "tiempo": 1
+      },
+      {
+        "descripcion": "voltear y pespuntear tapeta bols delantera x2",
+        "maquina": "mp",
+        "tiempo": 1
+      },
+      {
+        "descripcion": "apuntar biblar en tapeta delantera x2",
+        "maquina": "mp",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar biblar en tapeta delantera x2",
+        "maquina": "mp",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser laminado con tapeta delantera x1",
+        "maquina": "mp",
+        "tiempo": 1
+      },
+      {
+        "descripcion": "pegar tapeta delantera x1",
+        "maquina": "mp",
+        "tiempo": 0.6
+      },
+      {
+        "descripcion": "volver y pespuntear tapeta delantera x1",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "unir tapeta delantera a vista x1",
+        "maquina": "mp",
+        "tiempo": 1.2
+      },
+      {
+        "descripcion": "unir cremallera y vista con tapeta delantera",
+        "maquina": "mp",
+        "tiempo": 2
+      },
+      {
+        "descripcion": "unir cremallera y vista con tapeta delantera x1",
+        "maquina": "mp",
+        "tiempo": 1.2
+      }
+    ]
+  },
+  {
+    "seccion": "TAPETA DELANTERA INTERIOR X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar tapeta delantera interior x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "coser tapeta delantera interior x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar tapeta delantera interior x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "prespuntear tapeta delantera interior x1",
+        "maquina": "MP",
+        "tiempo": 1
+      }
+    ]
+  },
+  {
+    "seccion": "TAPETA DELANTERA X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "pegar tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "coser tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "prespuntear tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      }
+    ]
+  },
+  {
+    "seccion": "TAPETA DELANTERA X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "coser velcro tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "precerar tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "pegar tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "prespuntear tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "apuntar tapeta delantera x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "TAPETA MANGA DERECHA X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser velcro tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "prespuntear tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar tapeta bolsillo x1",
+        "maquina": "PLANCHA",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "apuntar tapeta bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "TIRA PASADORA",
+    "operaciones": [
+      {
+        "descripcion": "preformar tira pasadora",
+        "maquina": "plancha",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "coser velcro tira pasadora",
+        "maquina": "mp",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar velcro a tira",
+        "maquina": "mp",
+        "tiempo": 0.1
+      }
+    ]
+  },
+  {
+    "seccion": "TIRA X1",
+    "operaciones": [
+      {
+        "descripcion": "coser velcro tira x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "precerar tira x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "voltear tira x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "prespuntear tira x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      }
+    ]
+  },
+  {
+    "seccion": "TIRA X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar tira x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "voltear tira x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pespuntear tira x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "ajustar tira x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "TIRANTES X1",
+    "operaciones": [
+      {
+        "descripcion": "coser dobladillo tirantes x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser velcro tirantes x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "TIRANTES X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "coser dobladillo tirantes x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser velcro tirantes x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      }
+    ]
+  },
+  {
+    "seccion": "TRIANGULO X1",
+    "operaciones": [
+      {
+        "descripcion": "coser dobladillo triangulo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "prespuntear triangulo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser ojalillos triangulo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "habilitar triangulo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      }
+    ]
+  },
+  {
+    "seccion": "TRIANGULO X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "coser dobladillo triangulo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "pespuntear triangulo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      }
+    ]
+  },
+  {
+    "seccion": "vista delantera x2",
+    "operaciones": [
+      {
+        "descripcion": "precerar tapas delanteras",
+        "maquina": "plancha",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pespuntear vista delantera x1",
+        "maquina": "mp",
+        "tiempo": 0.8
+      },
+      {
+        "descripcion": "pegar tapas delantera x1",
+        "maquina": "mp",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "embonar vistas",
+        "maquina": "mp",
+        "tiempo": 0.8
+      }
+    ]
+  },
+  {
+    "seccion": "VISTA GRANDE X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar vista x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar vista x1",
+        "maquina": "PLANCHA",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "prespuntear vista x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "habilitar vista x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "apuntar vista x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "VISTA GRANDE X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar vista x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "pegar vista x1",
+        "maquina": "PLANCHA",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "prespuntear vista x1",
+        "maquina": "MP",
+        "tiempo": 0.5
+      },
+      {
+        "descripcion": "habilitar vista x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "apuntar vista x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "VISTA PEQUEÑO X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar vista x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "voltear vista x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "prespuntear vista x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "habilitar vista x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "apuntar vista x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "VISTA PEQUEÑO X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar vista x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "voltear vista x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "prespuntear vista x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "habilitar vista x1",
+        "maquina": "2H",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "apuntar vista x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "VIVO BOLSILLO X1",
+    "operaciones": [
+      {
+        "descripcion": "precerar vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar vivo bolsillo x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "apuntar vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "apuntar ojalillos vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  },
+  {
+    "seccion": "VIVO BOLSILLO X1 (version 2)",
+    "operaciones": [
+      {
+        "descripcion": "precerar vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.3
+      },
+      {
+        "descripcion": "coser vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.4
+      },
+      {
+        "descripcion": "pegar vivo bolsillo x1",
+        "maquina": "MANUAL",
+        "tiempo": 0.2
+      },
+      {
+        "descripcion": "apuntar vivo bolsillo x1",
+        "maquina": "MP",
+        "tiempo": 0.2
+      }
+    ]
+  }
+]

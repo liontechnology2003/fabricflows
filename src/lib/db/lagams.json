@@ -1,0 +1,534 @@
+[
+  {
+    "productInfo": {
+      "productName": "prodacute test1",
+      "productCode": "444",
+      "sizes": [
+        {
+          "size": "",
+          "quantity": 100
+        }
+      ],
+      "totalQuantity": 100,
+      "totalStandardTime": 1320
+    },
+    "teamInfo": {
+      "assignedTeamId": "1",
+      "assignedTeamName": "team a",
+      "teamMemberCount": 4
+    },
+    "productionBlueprint": [
+      {
+        "sectionName": "biblar de tapeta bols delantera x2",
+        "assignedOperators": [
+          {
+            "operatorId": "USR-1762010048651",
+            "operatorName": "adam"
+          }
+        ],
+        "plannedOperations": [
+          {
+            "descripcion": "coser biblar de tapeta bols delan x2",
+            "maquina": "mp",
+            "tiempo": 1.4
+          },
+          {
+            "descripcion": "voltear y pespuntear tapeta bols delantera x2",
+            "maquina": "mp",
+            "tiempo": 1.6
+          },
+          {
+            "descripcion": "precocer biblar con tapeta bols delan x2",
+            "maquina": "mp",
+            "tiempo": 1.8
+          }
+        ]
+      },
+      {
+        "sectionName": "BOLSILLO ESPALDA X2",
+        "assignedOperators": [
+          {
+            "operatorId": "USR-1762008202533",
+            "operatorName": "ahmed"
+          }
+        ],
+        "plannedOperations": [
+          {
+            "descripcion": "preformar bolsillo espalda",
+            "maquina": "plancha",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "remallar forro bolsillo trasero",
+            "maquina": "ser",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "remallar forro bolsillo trasero x2",
+            "maquina": "ser",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "coser vista y forro bolsillo vivo espalda",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "pegar vista y forro bolsillo vivo espalda",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "coser vivo con cremallera a forro bolsillo",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "pegar vista bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.5
+          },
+          {
+            "descripcion": "coser cargaderas a bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.6
+          },
+          {
+            "descripcion": "coser ojalillo bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.3
+          },
+          {
+            "descripcion": "apuntar forro bolsillo",
+            "maquina": "mp",
+            "tiempo": 0.4
+          }
+        ]
+      },
+      {
+        "sectionName": "BOLSILLO ojalillos X1",
+        "assignedOperators": [
+          {
+            "operatorId": "USR-1762010031419",
+            "operatorName": "khalid"
+          }
+        ],
+        "plannedOperations": [
+          {
+            "descripcion": "precerar bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "coser dobladillo bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "coser velcro bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "hacer ojalillo bolsillo x1",
+            "maquina": "OJALILLOS",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "pespuntear bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "pegar bolsillo x1",
+            "maquina": "PLANCHA",
+            "tiempo": 0.4
+          }
+        ]
+      }
+    ],
+    "status": "Draft",
+    "lagamId": "LAG-1762333719775"
+  },
+  {
+    "productInfo": {
+      "productName": "polar jal",
+      "productCode": "444",
+      "sizes": [
+        {
+          "size": "s",
+          "quantity": 100
+        },
+        {
+          "size": "L",
+          "quantity": 100
+        }
+      ],
+      "totalQuantity": 200,
+      "totalStandardTime": 150
+    },
+    "teamInfo": {
+      "assignedTeamId": "1",
+      "assignedTeamName": "team a",
+      "teamMemberCount": 4
+    },
+    "productionBlueprint": [
+      {
+        "sectionName": "biblar de tapeta bols delantera x2",
+        "assignedOperators": [
+          {
+            "operatorId": "USR-1762010048651",
+            "operatorName": "adam"
+          }
+        ],
+        "plannedOperations": [
+          {
+            "descripcion": "coser biblar de tapeta bols delan x2",
+            "maquina": "mp",
+            "tiempo": 1.4
+          },
+          {
+            "descripcion": "voltear y pespuntear tapeta bols delantera x2",
+            "maquina": "mp",
+            "tiempo": 1.6
+          },
+          {
+            "descripcion": "precocer biblar con tapeta bols delan x2",
+            "maquina": "mp",
+            "tiempo": 1.8
+          }
+        ]
+      },
+      {
+        "sectionName": "BOLSILLO ojalillos X1",
+        "assignedOperators": [
+          {
+            "operatorId": "USR-1762008202533",
+            "operatorName": "ahmed"
+          }
+        ],
+        "plannedOperations": [
+          {
+            "descripcion": "precerar bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "coser dobladillo bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "coser velcro bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "hacer ojalillo bolsillo x1",
+            "maquina": "OJALILLOS",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "pespuntear bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "pegar bolsillo x1",
+            "maquina": "PLANCHA",
+            "tiempo": 0.4
+          }
+        ]
+      },
+      {
+        "sectionName": "BOLSILLO ESPALDA X2",
+        "assignedOperators": [
+          {
+            "operatorId": "USR-1762010031419",
+            "operatorName": "khalid"
+          }
+        ],
+        "plannedOperations": [
+          {
+            "descripcion": "preformar bolsillo espalda",
+            "maquina": "plancha",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "remallar forro bolsillo trasero",
+            "maquina": "ser",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "remallar forro bolsillo trasero x2",
+            "maquina": "ser",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "coser vista y forro bolsillo vivo espalda",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "pegar vista y forro bolsillo vivo espalda",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "coser vivo con cremallera a forro bolsillo",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "pegar vista bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.5
+          },
+          {
+            "descripcion": "coser cargaderas a bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.6
+          },
+          {
+            "descripcion": "coser ojalillo bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.3
+          },
+          {
+            "descripcion": "apuntar forro bolsillo",
+            "maquina": "mp",
+            "tiempo": 0.4
+          }
+        ]
+      }
+    ],
+    "status": "Draft",
+    "lagamId": "LAG-1762010160532"
+  },
+  {
+    "productInfo": {
+      "productName": "aaa",
+      "productCode": "444",
+      "sizes": [
+        {
+          "size": "s",
+          "quantity": 50
+        }
+      ],
+      "totalQuantity": 50,
+      "totalStandardTime": "1120.00 minutes"
+    },
+    "teamInfo": {
+      "assignedTeamId": "1",
+      "assignedTeamName": "team a",
+      "teamMemberCount": 4
+    },
+    "productionBlueprint": [
+      {
+        "sectionName": "BOLSILLO ESPALDA X2",
+        "assignedOperators": [],
+        "plannedOperations": [
+          {
+            "descripcion": "preformar bolsillo espalda",
+            "maquina": "plancha",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "remallar forro bolsillo trasero",
+            "maquina": "ser",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "remallar forro bolsillo trasero x2",
+            "maquina": "ser",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "coser vista y forro bolsillo vivo espalda",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "pegar vista y forro bolsillo vivo espalda",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "coser vivo con cremallera a forro bolsillo",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "pegar vista bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.5
+          },
+          {
+            "descripcion": "coser cargaderas a bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.6
+          },
+          {
+            "descripcion": "coser ojalillo bolsillo espalda",
+            "maquina": "mp",
+            "tiempo": 0.3
+          },
+          {
+            "descripcion": "apuntar forro bolsillo",
+            "maquina": "mp",
+            "tiempo": 0.4
+          }
+        ]
+      },
+      {
+        "sectionName": "BOLSILLO ojalillos X1",
+        "assignedOperators": [
+          {
+            "operatorId": "USR-1762008202533",
+            "operatorName": "ahmed"
+          }
+        ],
+        "plannedOperations": [
+          {
+            "descripcion": "precerar bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "coser dobladillo bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "coser velcro bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "hacer ojalillo bolsillo x1",
+            "maquina": "OJALILLOS",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "pespuntear bolsillo x1",
+            "maquina": "MP",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "pegar bolsillo x1",
+            "maquina": "PLANCHA",
+            "tiempo": 0.4
+          }
+        ]
+      },
+      {
+        "sectionName": "BOLSILLO PECHO",
+        "assignedOperators": [
+          {
+            "operatorId": "USR-1762010031419",
+            "operatorName": "khalid"
+          }
+        ],
+        "plannedOperations": [
+          {
+            "descripcion": "marcar delantero posicion de bolsillo pecho x2",
+            "maquina": "manual",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "pegar bolsillo vivo y vista bolsillo pecho x2",
+            "maquina": "plancha",
+            "tiempo": 0.6
+          },
+          {
+            "descripcion": "coser bolsillo vivo y vista bolsillo pecho x2",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "preformar tira bolsillo izquierdo x1",
+            "maquina": "plancha",
+            "tiempo": 0.4
+          },
+          {
+            "descripcion": "preparar bolsillo de pecho derecho",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "preparar bolsillo de pecho derecho x1",
+            "maquina": "mp",
+            "tiempo": 0.8
+          },
+          {
+            "descripcion": "preformar tira de pecho L/pecho",
+            "maquina": "mp",
+            "tiempo": 0.3
+          },
+          {
+            "descripcion": "preparar tira de pecho L/pecho",
+            "maquina": "mp",
+            "tiempo": 1
+          },
+          {
+            "descripcion": "pegar tira bolsillo izquierdo x1",
+            "maquina": "mp",
+            "tiempo": 0.2
+          },
+          {
+            "descripcion": "volver y pespuntear tira inter bols pecho x1",
+            "maquina": "mp",
+            "tiempo": 1.2
+          },
+          {
+            "descripcion": "volver y pespuntear tiras inter bols pecho",
+            "maquina": "mp",
+            "tiempo": 1.4
+          },
+          {
+            "descripcion": "coser fuelle bols pecho los",
+            "maquina": "mp",
+            "tiempo": 1
+          },
+          {
+            "descripcion": "precintar tira de bolsillo pecho x1",
+            "maquina": "mp",
+            "tiempo": 0.3
+          },
+          {
+            "descripcion": "coser velcro en bolsillo pecho",
+            "maquina": "mp",
+            "tiempo": 0.5
+          },
+          {
+            "descripcion": "precintar y ribetear tira de bolsillo pecho x1",
+            "maquina": "mp",
+            "tiempo": 0.5
+          },
+          {
+            "descripcion": "coser velcro en tira bolsillo",
+            "maquina": "mp",
+            "tiempo": 0.5
+          },
+          {
+            "descripcion": "coser velcro en tira bolsillo de bolsillo pecho Izq",
+            "maquina": "mp",
+            "tiempo": 1
+          },
+          {
+            "descripcion": "coser velcro en bolsillo de bolsillo pecho Der",
+            "maquina": "mp",
+            "tiempo": 1
+          },
+          {
+            "descripcion": "coser velcro de bolsillo pecho derecho x1",
+            "maquina": "m,v",
+            "tiempo": 0.5
+          }
+        ]
+      }
+    ],
+    "status": "Draft",
+    "lagamId": "LAG-1762338201716"
+  }
+]

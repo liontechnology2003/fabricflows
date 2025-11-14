@@ -1,0 +1,53 @@
+[
+  {
+    "id": "USR-1762008202533",
+    "name": "ahmed",
+    "email": null,
+    "employeeId": "8498489",
+    "role": "Operator",
+    "avatarUrl": ""
+  },
+  {
+    "id": "USR-1762004456799",
+    "name": "anass Mestourr",
+    "email": "nijato4820@dwakm.com",
+    "employeeId": "11",
+    "role": "Manager",
+    "password": "$2a$10$YUw3.6uJfHM/rGomlB1/7u.BZUfombNBUNuP2e7R8SPPT.wRZjGES",
+    "avatarUrl": ""
+  },
+  {
+    "id": "USR-1762010031419",
+    "name": "khalid",
+    "email": null,
+    "employeeId": "5546",
+    "role": "Operator",
+    "avatarUrl": ""
+  },
+  {
+    "id": "USR-1762010048651",
+    "name": "adam",
+    "email": null,
+    "employeeId": "11",
+    "role": "Operator",
+    "avatarUrl": ""
+  },
+  {
+    "id": "USR-1763113086757",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "employeeId": "001",
+    "role": "Admin",
+    "password": "$2b$10$mYc/142HfuuOIhl7MTEzquF9QBDefJscoIvTBOvn09.63rrAvdKZO",
+    "avatarUrl": ""
+  },
+  {
+    "id": "USR-1763113529357",
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "employeeId": "001",
+    "role": "Admin",
+    "password": "$2a$10$n0/uNXiPSKOUyrAE6O1ny.vrYNm7A1cKtiTUNIzRm3KuVECWsxoLO",
+    "avatarUrl": ""
+  }
+]

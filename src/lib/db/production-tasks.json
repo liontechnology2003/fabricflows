@@ -1,0 +1,184 @@
+[
+  {
+    "id": "4",
+    "lagamId": "LAG-1762010160532",
+    "sectionName": "BOLSILLO ojalillos X1",
+    "teamMemberId": "USR-1762008202533",
+    "sizeQuantities": [
+      {
+        "size": "s",
+        "quantity": 40
+      },
+      {
+        "size": "L",
+        "quantity": 10
+      }
+    ],
+    "quantity": 50,
+    "quantityProduced": 50,
+    "sizeQuantitiesProduced": [
+      {
+        "size": "s",
+        "quantity": 40
+      },
+      {
+        "size": "L",
+        "quantity": 10
+      }
+    ],
+    "status": "Completed",
+    "estimatedTime": 89.99999999999999,
+    "actualTime": null,
+    "date": "2025-11-01",
+    "timeSlot": "7:30 to 9:30",
+    "operationStatus": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "id": "5",
+    "lagamId": "LAG-1762010160532",
+    "sectionName": "BOLSILLO ESPALDA X2",
+    "teamMemberId": "USR-1762010031419",
+    "sizeQuantities": [
+      {
+        "size": "s",
+        "quantity": 18
+      }
+    ],
+    "quantity": 18,
+    "quantityProduced": 18,
+    "sizeQuantitiesProduced": [
+      {
+        "size": "s",
+        "quantity": 18
+      }
+    ],
+    "status": "Completed",
+    "estimatedTime": 118.80000000000001,
+    "actualTime": null,
+    "date": "2025-11-01",
+    "timeSlot": "7:30 to 9:30",
+    "operationStatus": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "id": "6",
+    "lagamId": "LAG-1762010160532",
+    "sectionName": "biblar de tapeta bols delantera x2",
+    "teamMemberId": "USR-1762010048651",
+    "sizeQuantities": [
+      {
+        "size": "s",
+        "quantity": 20
+      }
+    ],
+    "quantity": 20,
+    "quantityProduced": 20,
+    "sizeQuantitiesProduced": [
+      {
+        "size": "s",
+        "quantity": 20
+      }
+    ],
+    "status": "Completed",
+    "estimatedTime": 96,
+    "actualTime": null,
+    "date": "2025-11-01",
+    "timeSlot": "7:30 to 9:30",
+    "operationStatus": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "id": "7",
+    "lagamId": "LAG-1762338201716",
+    "sectionName": "BOLSILLO ESPALDA X2",
+    "teamMemberId": "USR-1762010048651",
+    "sizeQuantities": [
+      {
+        "size": "s",
+        "quantity": 10
+      }
+    ],
+    "quantity": 10,
+    "quantityProduced": 10,
+    "sizeQuantitiesProduced": [
+      {
+        "size": "s",
+        "quantity": 10
+      }
+    ],
+    "status": "Completed",
+    "estimatedTime": 66,
+    "actualTime": null,
+    "date": "2025-11-06",
+    "timeSlot": "7:30 to 9:30",
+    "operationStatus": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "id": "8",
+    "lagamId": "LAG-1762338201716",
+    "sectionName": "BOLSILLO ESPALDA X2",
+    "teamMemberId": "USR-1762010048651",
+    "sizeQuantities": [
+      {
+        "size": "s",
+        "quantity": 10
+      }
+    ],
+    "quantity": 10,
+    "quantityProduced": 10,
+    "sizeQuantitiesProduced": [
+      {
+        "size": "s",
+        "quantity": 10
+      }
+    ],
+    "status": "Completed",
+    "estimatedTime": 66,
+    "actualTime": null,
+    "date": "2025-11-04",
+    "timeSlot": "7:30 to 9:30",
+    "operationStatus": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  }
+]
